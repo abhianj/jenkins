@@ -1,5 +1,5 @@
 FROM centos:7.1.1503
-MAINTAINER Saarthak Vats<saarthak.vats@mobikwik.com>
+MAINTAINER Abhishek Vats<abhishekkumarshrm@gmail.com>
 
 # prepare environment
 COPY jdk /opt/jdk
